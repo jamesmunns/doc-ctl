@@ -34,7 +34,7 @@
 | Number    | Name                          | Description                       |
 | :--       | :--                           | :---                              |
 | 201       | Social Media Posts            | Project Planning + Updates        |
-| 301       | Livestreams                   | Project Livestreams               |
+| 202       | Livestreams                   | Project Livestreams               |
 
 ## 3xx - Design Projects
 
@@ -46,3 +46,12 @@
 | 302       | Software Projects             |                                   |
 | 303       | Electrical Projects           |                                   |
 | 304       | Mechanical Projects           |                                   |
+
+## 4xx - Design Outputs
+
+| Number    | Name                          | Description                       |
+| :--       | :--                           | :---                              |
+| 401       | Total System Assemblies       |                                   |
+| 402       | Software Binaries             |                                   |
+| 403       | PCBAs                         |                                   |
+| 404       | Mechanical Objects            |                                   |
